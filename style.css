@@ -1,0 +1,22 @@
+.map1{
+     text-align: center;
+     font-weight: bold;
+     color: lightcoral;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+     text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img1{
+     border: 10px solid rgb(255, 255, 255);
+     width: 450px;
+     height: 250px;
+   text-align: center;
+}
+
+body{
+     text-align: center;
+}
